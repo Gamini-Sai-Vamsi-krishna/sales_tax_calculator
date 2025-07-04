@@ -1,0 +1,17 @@
+{
+  "name": "sales-tax-calculator",
+  "version": "1.0.0",
+  "description": "A simple CLI-based sales tax calculator written in Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "sales-tax",
+    "nodejs",
+    "cli",
+    "tax-calculator"
+  ],
+  "author": "GAMINI SAI VAMSI KRISHNA",
+  "license": "MIT"
+}
